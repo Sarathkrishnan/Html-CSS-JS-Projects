@@ -11,3 +11,5 @@ Coding projects, exercise in HTML, CSS, JS etc.
 8. check internet is on or off
 9. Neon text
 10. Number system converter
+11. KTU CGPA calculator for 2015 batch (Seperate repo : [link](https://github.com/Sarathkrishnan/ktu-cgpa-calculator) )
+12. My old portfolio website
